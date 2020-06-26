@@ -198,7 +198,10 @@ If the In-Place Hold contains a large number of source mailboxes, it's possible 
     
    ```powershell
    Get-MailboxSearch $InPlaceHold.Name | FL Sources
-   ```
+
+## Remove an inactive mailbox from an M365 retention policy
+Set-RetentionCompliancepolicy -Removeexchangelocation ".SMTP Address"
+**note about prepending address with period*```
 
 ## More information
 
