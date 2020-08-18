@@ -203,7 +203,7 @@ You have to be assigned the Mailbox Import Export role to import PST files to Mi
   
 Additionally, to create import jobs in the Security & Compliance Center, one of the following must be true:
   
-- You have to be assigned the Mail Recipients role in Exchange Online. By default, this role is assigned to the Organization Management and Recipient Management roles groups.
+- You have to be assigned the Mail Recipients role in Exchange Online. By default, this role is (above, we say "isn't") assigned to the Organization Management and Recipient Management roles groups.
     
     Or
     
