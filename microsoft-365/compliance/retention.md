@@ -112,7 +112,6 @@ When a retention policy is locked:
 
 - No one can turn it off
 - Locations can be added but not removed
-- Content subject to the policy can't be modified or deleted during the retention period
 - You can extend a retention period but not decrease it
 
 In summary, a locked retention policy can be increased or extended, but it can't be reduced or turned off.
